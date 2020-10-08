@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd3d7a09932b80cce1afc4199e592ee7",
+    "revision": "7ed207545724d3d5fd6bdd9aa15b3f4c",
     "url": "/vepay-online-spa/index.html"
   },
   {
-    "revision": "33893a7594501367fcaa",
+    "revision": "3f65a8bb9eb2e1f46ae4",
     "url": "/vepay-online-spa/static/css/main.e22da4b8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vepay-online-spa/static/js/2.e4bd2543.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33893a7594501367fcaa",
-    "url": "/vepay-online-spa/static/js/main.62a2c329.chunk.js"
+    "revision": "3f65a8bb9eb2e1f46ae4",
+    "url": "/vepay-online-spa/static/js/main.9e6b44b1.chunk.js"
   },
   {
     "revision": "4691a77a2e703fe51de8",

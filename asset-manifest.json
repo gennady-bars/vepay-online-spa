@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vepay-online-spa/static/css/main.e22da4b8.chunk.css",
-    "main.js": "/vepay-online-spa/static/js/main.62a2c329.chunk.js",
-    "main.js.map": "/vepay-online-spa/static/js/main.62a2c329.chunk.js.map",
+    "main.js": "/vepay-online-spa/static/js/main.9e6b44b1.chunk.js",
+    "main.js.map": "/vepay-online-spa/static/js/main.9e6b44b1.chunk.js.map",
     "runtime-main.js": "/vepay-online-spa/static/js/runtime-main.8ff69bca.js",
     "runtime-main.js.map": "/vepay-online-spa/static/js/runtime-main.8ff69bca.js.map",
     "static/js/2.e4bd2543.chunk.js": "/vepay-online-spa/static/js/2.e4bd2543.chunk.js",
     "static/js/2.e4bd2543.chunk.js.map": "/vepay-online-spa/static/js/2.e4bd2543.chunk.js.map",
     "index.html": "/vepay-online-spa/index.html",
-    "precache-manifest.a481047c0150709715eddd3215cf4c18.js": "/vepay-online-spa/precache-manifest.a481047c0150709715eddd3215cf4c18.js",
+    "precache-manifest.27920c18f63c7eada059abaccb7c564e.js": "/vepay-online-spa/precache-manifest.27920c18f63c7eada059abaccb7c564e.js",
     "service-worker.js": "/vepay-online-spa/service-worker.js",
     "static/css/main.e22da4b8.chunk.css.map": "/vepay-online-spa/static/css/main.e22da4b8.chunk.css.map",
     "static/js/2.e4bd2543.chunk.js.LICENSE.txt": "/vepay-online-spa/static/js/2.e4bd2543.chunk.js.LICENSE.txt",
@@ -67,6 +67,6 @@
     "static/js/runtime-main.8ff69bca.js",
     "static/js/2.e4bd2543.chunk.js",
     "static/css/main.e22da4b8.chunk.css",
-    "static/js/main.62a2c329.chunk.js"
+    "static/js/main.9e6b44b1.chunk.js"
   ]
 }
