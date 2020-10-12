@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vepay-online-spa/static/css/main.377f800f.chunk.css",
-    "main.js": "/vepay-online-spa/static/js/main.f9028454.chunk.js",
-    "main.js.map": "/vepay-online-spa/static/js/main.f9028454.chunk.js.map",
+    "main.css": "/vepay-online-spa/static/css/main.130512fe.chunk.css",
+    "main.js": "/vepay-online-spa/static/js/main.b8195c4b.chunk.js",
+    "main.js.map": "/vepay-online-spa/static/js/main.b8195c4b.chunk.js.map",
     "runtime-main.js": "/vepay-online-spa/static/js/runtime-main.8ff69bca.js",
     "runtime-main.js.map": "/vepay-online-spa/static/js/runtime-main.8ff69bca.js.map",
     "static/js/2.47bf04ac.chunk.js": "/vepay-online-spa/static/js/2.47bf04ac.chunk.js",
     "static/js/2.47bf04ac.chunk.js.map": "/vepay-online-spa/static/js/2.47bf04ac.chunk.js.map",
     "index.html": "/vepay-online-spa/index.html",
-    "precache-manifest.4f49adddb8b02cc87cf8f66fb2dbe178.js": "/vepay-online-spa/precache-manifest.4f49adddb8b02cc87cf8f66fb2dbe178.js",
+    "precache-manifest.e87aa151b8468d479c2ca054db6dcc23.js": "/vepay-online-spa/precache-manifest.e87aa151b8468d479c2ca054db6dcc23.js",
     "service-worker.js": "/vepay-online-spa/service-worker.js",
-    "static/css/main.377f800f.chunk.css.map": "/vepay-online-spa/static/css/main.377f800f.chunk.css.map",
+    "static/css/main.130512fe.chunk.css.map": "/vepay-online-spa/static/css/main.130512fe.chunk.css.map",
     "static/js/2.47bf04ac.chunk.js.LICENSE.txt": "/vepay-online-spa/static/js/2.47bf04ac.chunk.js.LICENSE.txt",
     "static/media/Kolobov.jpg": "/vepay-online-spa/static/media/Kolobov.960ad98c.jpg",
     "static/media/MFO.png": "/vepay-online-spa/static/media/MFO.06e5f978.png",
@@ -117,7 +117,7 @@
   "entrypoints": [
     "static/js/runtime-main.8ff69bca.js",
     "static/js/2.47bf04ac.chunk.js",
-    "static/css/main.377f800f.chunk.css",
-    "static/js/main.f9028454.chunk.js"
+    "static/css/main.130512fe.chunk.css",
+    "static/js/main.b8195c4b.chunk.js"
   ]
 }
