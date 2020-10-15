@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "475c7f36ffff135b24b52a4afc5e51a4",
+    "revision": "daa814ac4507ac7b77de2333fd69429b",
     "url": "/vepay-online-spa/index.html"
   },
   {
-    "revision": "2a8eb6e7c7d478ac26af",
-    "url": "/vepay-online-spa/static/css/main.fa7e3109.chunk.css"
+    "revision": "5702c33c831aadfc8b58",
+    "url": "/vepay-online-spa/static/css/main.1cfbbe18.chunk.css"
   },
   {
-    "revision": "67bbde5a2c42b6ce5936",
-    "url": "/vepay-online-spa/static/js/2.47bf04ac.chunk.js"
+    "revision": "a9b05f49a70e6a4b1dcc",
+    "url": "/vepay-online-spa/static/js/2.6c48f311.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/vepay-online-spa/static/js/2.47bf04ac.chunk.js.LICENSE.txt"
+    "url": "/vepay-online-spa/static/js/2.6c48f311.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a8eb6e7c7d478ac26af",
-    "url": "/vepay-online-spa/static/js/main.0399f0cf.chunk.js"
+    "revision": "5702c33c831aadfc8b58",
+    "url": "/vepay-online-spa/static/js/main.a38eafb2.chunk.js"
   },
   {
     "revision": "4691a77a2e703fe51de8",
@@ -308,8 +308,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vepay-online-spa/static/media/personal-account-img1.97ad15be.png"
   },
   {
-    "revision": "45a9051cfcb1b76a37445f869c31fffb",
-    "url": "/vepay-online-spa/static/media/prefooter-bg.45a9051c.png"
+    "revision": "92da704823507f2ccae1c28bbf8340af",
+    "url": "/vepay-online-spa/static/media/prefooter-bg2.92da7048.png"
   },
   {
     "revision": "726af0cb7ed233262c15534416c0c51a",
