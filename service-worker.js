@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vepay-online-spa/precache-manifest.e934a1f2a37e5f52e28610958d232ad1.js"
+  "/vepay-online-spa/precache-manifest.dcc5e98dfee192751b9cdf508fec916d.js"
 );
 
 self.addEventListener('message', (event) => {
