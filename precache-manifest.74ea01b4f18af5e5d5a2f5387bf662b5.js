@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40ab2ddf87266dc1db3e8c8547f07335",
+    "revision": "595266e71f8036e4f7052a129ab54232",
     "url": "/vepay-online-spa/index.html"
   },
   {
-    "revision": "928e589647b24789a2e7",
-    "url": "/vepay-online-spa/static/css/main.f688ceb2.chunk.css"
+    "revision": "504e7073fff6571749d8",
+    "url": "/vepay-online-spa/static/css/main.c099d50d.chunk.css"
   },
   {
-    "revision": "a9b05f49a70e6a4b1dcc",
-    "url": "/vepay-online-spa/static/js/2.6c48f311.chunk.js"
+    "revision": "dfa8a74dc4fd1d2c4c1a",
+    "url": "/vepay-online-spa/static/js/2.e66d4c06.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/vepay-online-spa/static/js/2.6c48f311.chunk.js.LICENSE.txt"
+    "url": "/vepay-online-spa/static/js/2.e66d4c06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "928e589647b24789a2e7",
-    "url": "/vepay-online-spa/static/js/main.a38eafb2.chunk.js"
+    "revision": "504e7073fff6571749d8",
+    "url": "/vepay-online-spa/static/js/main.67d5a682.chunk.js"
   },
   {
     "revision": "4691a77a2e703fe51de8",
@@ -204,8 +204,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vepay-online-spa/static/media/introducton-img.6cd8c7c7.png"
   },
   {
-    "revision": "032338b0ddaf737efc706baf19eb3623",
-    "url": "/vepay-online-spa/static/media/legal-entity.032338b0.svg"
+    "revision": "02fe8186d0717c687a9870fcd052965f",
+    "url": "/vepay-online-spa/static/media/legal-entity.02fe8186.png"
   },
   {
     "revision": "329e4b12311e3aa92aeff5806260fc2f",
@@ -336,8 +336,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vepay-online-spa/static/media/recurring-img.9f45bfc8.png"
   },
   {
-    "revision": "bc2016f4050615d42fc450c94bc4db47",
-    "url": "/vepay-online-spa/static/media/self-employed.bc2016f4.svg"
+    "revision": "1e24ba42f562dd7998e1c2e69641ec4e",
+    "url": "/vepay-online-spa/static/media/self-employed.1e24ba42.png"
   },
   {
     "revision": "86243846364e63e16b978d10778f9a87",

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vepay-online-spa/static/css/main.f688ceb2.chunk.css",
-    "main.js": "/vepay-online-spa/static/js/main.a38eafb2.chunk.js",
-    "main.js.map": "/vepay-online-spa/static/js/main.a38eafb2.chunk.js.map",
+    "main.css": "/vepay-online-spa/static/css/main.c099d50d.chunk.css",
+    "main.js": "/vepay-online-spa/static/js/main.67d5a682.chunk.js",
+    "main.js.map": "/vepay-online-spa/static/js/main.67d5a682.chunk.js.map",
     "runtime-main.js": "/vepay-online-spa/static/js/runtime-main.8ff69bca.js",
     "runtime-main.js.map": "/vepay-online-spa/static/js/runtime-main.8ff69bca.js.map",
-    "static/js/2.6c48f311.chunk.js": "/vepay-online-spa/static/js/2.6c48f311.chunk.js",
-    "static/js/2.6c48f311.chunk.js.map": "/vepay-online-spa/static/js/2.6c48f311.chunk.js.map",
+    "static/js/2.e66d4c06.chunk.js": "/vepay-online-spa/static/js/2.e66d4c06.chunk.js",
+    "static/js/2.e66d4c06.chunk.js.map": "/vepay-online-spa/static/js/2.e66d4c06.chunk.js.map",
     "index.html": "/vepay-online-spa/index.html",
-    "precache-manifest.dcc5e98dfee192751b9cdf508fec916d.js": "/vepay-online-spa/precache-manifest.dcc5e98dfee192751b9cdf508fec916d.js",
+    "precache-manifest.74ea01b4f18af5e5d5a2f5387bf662b5.js": "/vepay-online-spa/precache-manifest.74ea01b4f18af5e5d5a2f5387bf662b5.js",
     "service-worker.js": "/vepay-online-spa/service-worker.js",
-    "static/css/main.f688ceb2.chunk.css.map": "/vepay-online-spa/static/css/main.f688ceb2.chunk.css.map",
-    "static/js/2.6c48f311.chunk.js.LICENSE.txt": "/vepay-online-spa/static/js/2.6c48f311.chunk.js.LICENSE.txt",
+    "static/css/main.c099d50d.chunk.css.map": "/vepay-online-spa/static/css/main.c099d50d.chunk.css.map",
+    "static/js/2.e66d4c06.chunk.js.LICENSE.txt": "/vepay-online-spa/static/js/2.e66d4c06.chunk.js.LICENSE.txt",
     "static/media/Kolobov.jpg": "/vepay-online-spa/static/media/Kolobov.960ad98c.jpg",
     "static/media/MFO.png": "/vepay-online-spa/static/media/MFO.06e5f978.png",
     "static/media/Malinina.jpg": "/vepay-online-spa/static/media/Malinina.454b5715.jpg",
@@ -57,7 +57,7 @@
     "static/media/internet-shop.png": "/vepay-online-spa/static/media/internet-shop.b5c0108b.png",
     "static/media/internet-shops.png": "/vepay-online-spa/static/media/internet-shops.89f4b7a1.png",
     "static/media/introducton-img.png": "/vepay-online-spa/static/media/introducton-img.6cd8c7c7.png",
-    "static/media/legal-entity.svg": "/vepay-online-spa/static/media/legal-entity.032338b0.svg",
+    "static/media/legal-entity.png": "/vepay-online-spa/static/media/legal-entity.02fe8186.png",
     "static/media/loan-repayment-img1.png": "/vepay-online-spa/static/media/loan-repayment-img1.329e4b12.png",
     "static/media/loan-repayment-img2.png": "/vepay-online-spa/static/media/loan-repayment-img2.a17a0ca8.png",
     "static/media/loan-repayment-img3.png": "/vepay-online-spa/static/media/loan-repayment-img3.91ee9247.png",
@@ -90,7 +90,7 @@
     "static/media/product-img-1.png": "/vepay-online-spa/static/media/product-img-1.a98ddb79.png",
     "static/media/product-img-4.png": "/vepay-online-spa/static/media/product-img-4.88a3475c.png",
     "static/media/recurring-img.png": "/vepay-online-spa/static/media/recurring-img.9f45bfc8.png",
-    "static/media/self-employed.svg": "/vepay-online-spa/static/media/self-employed.bc2016f4.svg",
+    "static/media/self-employed.png": "/vepay-online-spa/static/media/self-employed.1e24ba42.png",
     "static/media/SkewedBlock.module.scss": "/vepay-online-spa/static/media/shield-img.86243846.png",
     "static/media/shopscript-module-img.jpg": "/vepay-online-spa/static/media/shopscript-module-img.8c5e6421.jpg",
     "static/media/shopscript-module-img2.jpg": "/vepay-online-spa/static/media/shopscript-module-img2.52054c43.jpg",
@@ -118,8 +118,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8ff69bca.js",
-    "static/js/2.6c48f311.chunk.js",
-    "static/css/main.f688ceb2.chunk.css",
-    "static/js/main.a38eafb2.chunk.js"
+    "static/js/2.e66d4c06.chunk.js",
+    "static/css/main.c099d50d.chunk.css",
+    "static/js/main.67d5a682.chunk.js"
   ]
 }
